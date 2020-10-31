@@ -1,0 +1,10 @@
+astropy
+cython
+numpy
+blimpy>=2.0.0
+pandas
+toolz
+fsspec
+dask
+dask[bag]
+logbook
